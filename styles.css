@@ -4,10 +4,9 @@ p {
     border-style: double;
     border-color: slateblue;
 }
-
 header {
-    font-size: 30px;
-    
+    font-size: 60px;
+    font-family: 'Cedarville Cursive', cursive;
 }
 h1 {
     text-align: center;
@@ -20,4 +19,5 @@ h2 {
 h3 {
     text-align: center;
     font-size: 25px;
+    font-family: 'Cedarville Cursive', cursive;
 }
