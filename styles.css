@@ -1,10 +1,12 @@
 @charset "UTF-8";
+
 p {
-    margin: 50px 400px;
-    padding: 5px;
+    margin: 20px;
+    padding: 15px;
     border-style: double;
-    border-color: lavender;
-    border-width: 12px;
+    border-color: rgb(204, 204, 255);
+    border-width: 10px;
+    background-color: aliceblue;
     font-family: 'Inconsolata', monospace;
     font-size: 18px;
 }
@@ -13,19 +15,29 @@ header {
     font-family: 'Cedarville Cursive', cursive;
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 60px;
+    margin-bottom: 68px;
+    background-color: rgb(204, 204, 255);
 }
 h1 {
     vertical-align: middle;
-    margin-left: 375px;
-    margin-right: 40px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 200px;
+    margin-left: 200px;
     padding: 10px;
     font-size: 42px;
     font-family: 'Inconsolata', monospace;
+    background-color: aliceblue;
 }
 h2 {
     vertical-align: middle;
     text-align: center;
     font-size: 37px;
     font-family: 'Cedarville Cursive', cursive;
+    color: rgb(233, 135, 212);
+}
+body {
+    background-image: url(images/background.jpg);
+    background-repeat: repeat;
 }
