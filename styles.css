@@ -4,7 +4,7 @@ p {
     margin: 20px;
     padding: 15px;
     border-style: double;
-    border-color: cornsilk;
+    border-color: maroon;
     border-width: 10px;
     background-color: aliceblue;
     font-family: 'Inconsolata', monospace;
@@ -29,7 +29,7 @@ h1 {
     padding: 10px;
     font-size: 42px;
     font-family: 'Inconsolata', monospace;
-    color: rgb(167, 167, 247);
+    color: aliceblue;
     text-shadow: 3px, 2px, black;
 }
 h2 {
@@ -37,13 +37,10 @@ h2 {
     text-align: center;
     font-size: 37px;
     font-family: 'Cedarville Cursive', cursive;
-    color: rgb(167, 167, 247);
+    color: aliceblue;
     text-shadow: 3px, 2px, black;
 }
 body {
     background-image: url(images/background.jpg);
     background-repeat: repeat;
-}
-article {
-
 }
