@@ -4,7 +4,7 @@ p {
     margin: 20px;
     padding: 15px;
     border-style: double;
-    border-color: rgb(204, 204, 255);
+    border-color: cornsilk;
     border-width: 10px;
     background-color: aliceblue;
     font-family: 'Inconsolata', monospace;
@@ -16,28 +16,34 @@ header {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 68px;
-    background-color: rgb(204, 204, 255);
+    background-color: aliceblue;
 }
 h1 {
     vertical-align: middle;
     text-align: center;
     margin-top: 10px;
     margin-bottom: 0px;
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
     padding: 10px;
     font-size: 42px;
     font-family: 'Inconsolata', monospace;
-    background-color: aliceblue;
+    color: rgb(167, 167, 247);
+    text-shadow: 3px, 2px, black;
 }
 h2 {
     vertical-align: middle;
     text-align: center;
     font-size: 37px;
     font-family: 'Cedarville Cursive', cursive;
-    color: rgb(233, 135, 212);
+    color: rgb(167, 167, 247);
+    text-shadow: 3px, 2px, black;
 }
 body {
     background-image: url(images/background.jpg);
     background-repeat: repeat;
+}
+article {
+
 }
