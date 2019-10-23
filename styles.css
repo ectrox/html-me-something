@@ -65,7 +65,7 @@ body {
     margin-right: 40%;
     margin-left: 40%;
 }
-.container {
+#container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -75,7 +75,7 @@ body {
     margin-left: 10%;
     margin-top: auto;
 }
-.rows img {
-    vertical-align: auto;
-    flex: 'flex-grow', 'flex-shrink';
+.row img {
+    vertical-align: center;
+    margin: 4px;
 }
